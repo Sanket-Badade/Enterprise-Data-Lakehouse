@@ -4,7 +4,7 @@ Enterprise-grade real-time customer data lakehouse built using Azure Databricks,
 
 ## Tech Stack
 
--Python
+-Python\
 -Azure Event Hub
 -Azure Data Lake Storage Gen2 (ADLS)
 -Azure Databricks
