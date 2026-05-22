@@ -31,7 +31,7 @@ This project follows the Medallion Architecture approach:
 ▫️Historical event retention in ADLS Gen2\
 ▫️Acts as source of truth 
 
-##➡️ Silver Layer
+## ➡️ Silver Layer
 
 ▫️Parsing json data and cleansing\
 ▫️Schema enforcement using Autoloader\
@@ -39,7 +39,7 @@ This project follows the Medallion Architecture approach:
 ▫️Deduplication 
 ▫️Writing data in delta format \
 
-##➡️ Gold Layer
+## ➡️ Gold Layer
 
 ▫️Business-ready fact and dimension tables\
 ▫️Aggregated customer analytics\
@@ -47,7 +47,7 @@ This project follows the Medallion Architecture approach:
 ▫️Power BI dashboards\
 ▫️Analytical reporting\
 
-##⭐ Key Features ⭐
+## ⭐ Key Features ⭐
 
 ▫️Real-time streaming pipeline\
 ▫️End-to-end Medallion Architecture\
