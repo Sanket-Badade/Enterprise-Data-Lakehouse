@@ -47,6 +47,10 @@ This project follows the Medallion Architecture approach:
 ▫️Power BI dashboards\
 ▫️Analytical reporting\
 
+## ➡️ Orchestration
+
+The entire pipeline is orchestrated using **Databricks Workflows** with sequential task dependency management.
+  
 ## ⭐ Key Features ⭐
 
 ▫️Real-time streaming pipeline\
